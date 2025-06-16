@@ -4,11 +4,8 @@ Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/ra
 
 This was our first group project at Le Wagon. It is a Desktop Rails app airbnb clone. It is a basic marketplace that allows users to list their tools for rent, and other users can rent them for use.
 
-![rentool-home]([https://github.com/user-attachments/assets/11ce5399-a277-443f-8346-7590f2aeebaf](https://airbnb-carved-duck-e9e78c22c0c6.herokuapp.com/)
-
-
 <br>
-App home: [https://WHATEVER.herokuapp.com](https://airbnb-carved-duck-e9e78c22c0c6.herokuapp.com/)
+App home: [https://airbnb-carved-duck-e9e78c22c0c6.herokuapp.com/)
    
 
 ## Getting Started
